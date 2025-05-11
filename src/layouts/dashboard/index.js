@@ -62,7 +62,7 @@ function Dashboard() {
             <MDBox mb={1.5}>
               <ComplexStatisticsCard
                 icon="leaderboard"
-                title="Netchanok khandee"
+                title="Netchanok Khandee"
                 count="67130035"
                 percentage={{
                   color: "success",
