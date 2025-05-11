@@ -63,7 +63,7 @@ function Dashboard() {
               <ComplexStatisticsCard
                 icon="leaderboard"
                 title="Netchanok khandee"
-                count="67130XXX"
+                count="67130035"
                 percentage={{
                   color: "success",
                   amount: "+3%",
@@ -77,8 +77,8 @@ function Dashboard() {
               <ComplexStatisticsCard
                 color="success"
                 icon="store"
-                title="Nattakan"
-                count="67130xxx"
+                title="ณัฐกานต์ สรรพา"
+                count="67130748"
                 percentage={{
                   color: "success",
                   amount: "+1%",
